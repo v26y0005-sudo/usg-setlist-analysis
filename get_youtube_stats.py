@@ -7,7 +7,7 @@ import re
 # ==========================================
 # 1. APIキーの設定
 # ==========================================
-YOUTUBE_API_KEY = "AIzaSyC8Di43DEhmiAE9WgNFtY5zK6Re3hJl7qM"
+YOUTUBE_API_KEY = "API"
 
 # UNISON SQUARE GARDEN 公式チャンネルID
 CHANNEL_ID = "UCy6p-dIbgL3A8K_e6sP1-lQ"
